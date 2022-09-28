@@ -56,6 +56,9 @@ d:di
 da:ada
 dafuk:kurang ajar
 damat:tidak peduli
+dapet:dapat
+dapt:dapat
+dapt:dapat
 dempa:demi apa
 dgn:dengan
 dkt:dekat
@@ -70,6 +73,7 @@ dugem:dunia gemerlap
 elo:kamu
 elu:kamu
 emg:memang
+enggak:tidak
 epsd:episode
 fake:falsu
 fans:penggemar
@@ -197,6 +201,7 @@ mw:mau
 n:dan
 ngeh:paham
 ngeuh:paham
+ngga:tidak
 nggak:tidak
 nggu:menunggu
 ngk:tidak
